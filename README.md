@@ -11,5 +11,5 @@
 
 ![class diagram](/class.png)
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Kc4Bh4VMEjk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/Kc4Bh4VMEjk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
