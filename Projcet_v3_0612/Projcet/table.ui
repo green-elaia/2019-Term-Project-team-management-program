@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Table</class>
+ <widget class="QWidget" name="Table">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>795</width>
+    <height>661</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>40</y>
+     <width>651</width>
+     <height>591</height>
+    </rect>
+   </property>
+   <row>
+    <property name="text">
+     <string>New Row</string>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>Monday</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Tuesday</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Wednesday</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Thursday</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Friday</string>
+    </property>
+   </column>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

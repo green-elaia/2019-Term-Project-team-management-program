@@ -1,0 +1,15 @@
+release/calendar.o
+release/ex.o
+release/gamble.o
+release/img.o
+release/main.o
+release/mainwindow.o
+release/notepad.o
+release/teaminfo.o
+release/timetable.o
+release/moc_calendar.o
+release/moc_ex.o
+release/moc_gamble.o
+release/moc_mainwindow.o
+release/moc_notepad.o
+release/moc_teaminfo.o

@@ -1,0 +1,15 @@
+debug/calendar.o
+debug/ex.o
+debug/gamble.o
+debug/img.o
+debug/main.o
+debug/mainwindow.o
+debug/notepad.o
+debug/teaminfo.o
+debug/timetable.o
+debug/moc_calendar.o
+debug/moc_ex.o
+debug/moc_gamble.o
+debug/moc_mainwindow.o
+debug/moc_notepad.o
+debug/moc_teaminfo.o
