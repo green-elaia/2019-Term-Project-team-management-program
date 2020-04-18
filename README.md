@@ -11,7 +11,7 @@
 
 본 프로그램의 class diagram과 시연영상은 다음과 같습니다.
 
-![class diagram](/class.png){: width="80%" height="80%"}
+![class diagram](/class.png)
 
 [![sample video](https://img.youtube.com/vi/Kc4Bh4VMEjk/0.jpg)](https://www.youtube.com/watch?v=Kc4Bh4VMEjk)
 
