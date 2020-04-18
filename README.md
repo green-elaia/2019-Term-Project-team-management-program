@@ -11,5 +11,7 @@
 
 ![class diagram](/class.png)
 
+[![sample video](https://www.youtube.com/watch?v=Kc4Bh4VMEjk/0.jpg)](https://www.youtube.com/watch?v=Kc4Bh4VMEjk)
+
 {%includes sample_video.html id="Kc4Bh4VMEjk"%}
 
