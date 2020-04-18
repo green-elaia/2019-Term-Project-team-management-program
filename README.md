@@ -7,11 +7,11 @@
 - 캘린더를 이용한 To Do list 관리
 - 팀원들의 과목시간표 이미지로 공강 시간을 파악하여 모임 가능시간 찾기
 
-개발 환경 : C++, QT, SQLite, OpenCV
+개발 Tool: C++, QT, SQLite, OpenCV
 
-![class diagram](/class.png)
+본 프로그램의 class diagram과 시연영상은 다음과 같습니다.
+
+![class diagram](/class.png){: width="80%" height="80%"}
 
 [![sample video](https://img.youtube.com/vi/Kc4Bh4VMEjk/0.jpg)](https://www.youtube.com/watch?v=Kc4Bh4VMEjk)
-
-{%includes sample_video.html id="Kc4Bh4VMEjk"%}
 
